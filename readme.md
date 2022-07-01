@@ -1,4 +1,4 @@
-# Mano Simulator
+# Mano Simulator Computer Architecture Project
 
 > An assembler and hardware simulator for the Mano Basic Computer, a 16 bit computer.
 
@@ -21,6 +21,4 @@ $ java -jar mano-simulator.jar
 
 See [example programs](examples.md).
 
-## License
-
-[MIT](https://github.com/TomerAberbach/mano-simulator/blob/main/license) © [Tomer Aberbach](https://github.com/TomerAberbach)
+C
